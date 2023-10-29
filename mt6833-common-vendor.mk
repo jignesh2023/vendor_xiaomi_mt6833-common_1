@@ -431,7 +431,7 @@ PRODUCT_PACKAGES += \
     gnss-mediatek \
     gnss@2.1-service \
     manifest_android.hardware.drm@1.4-service.widevine \
-    manifest_media_c2_V1_1_default \
+    manifest_media_c2_V1_2_default \
     vtservice \
     bp_kmsetkey_ca \
     ccci_mdinit \
